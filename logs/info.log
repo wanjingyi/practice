@@ -1,0 +1,20 @@
+2024-12-03 14:04:35.560 => [main] => INFO  com.wjy.practice.config.PracticeApplication:(50) - Starting PracticeApplication using Java 21.0.1 with PID 12876 (D:\practive_project\practice\target\classes started by e1561 in D:\practive_project\practice)
+2024-12-03 14:04:35.565 => [main] => INFO  com.wjy.practice.config.PracticeApplication:(654) - No active profile set, falling back to 1 default profile: "default"
+2024-12-03 14:04:36.127 => [main] => INFO  org.apache.coyote.http11.Http11NioProtocol:(173) - Initializing ProtocolHandler ["http-nio-8082"]
+2024-12-03 14:04:36.128 => [main] => INFO  org.apache.catalina.core.StandardService:(173) - Starting service [Tomcat]
+2024-12-03 14:04:36.128 => [main] => INFO  org.apache.catalina.core.StandardEngine:(173) - Starting Servlet engine: [Apache Tomcat/10.1.33]
+2024-12-03 14:04:36.163 => [main] => INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:(173) - Initializing Spring embedded WebApplicationContext
+2024-12-03 14:04:36.403 => [main] => INFO  org.apache.coyote.http11.Http11NioProtocol:(173) - Starting ProtocolHandler ["http-nio-8082"]
+2024-12-03 14:04:36.418 => [main] => INFO  com.wjy.practice.config.PracticeApplication:(56) - Started PracticeApplication in 1.023 seconds (process running for 1.533)
+2024-12-03 14:04:36.419 => [main] => INFO  com.wjy.practice.config.PracticeApplication:(19) - 启动成功！！
+2024-12-03 14:04:36.420 => [main] => INFO  com.wjy.practice.config.PracticeApplication:(20) - 地址: 	http://127.0.0.1:8082
+[2m2024-12-03 14:08:01.441[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mc.w.p.c.PracticeApplication             [0;39m [2m:[0;39m Starting PracticeApplication using Java 21.0.1 with PID 14504 (D:\practive_project\practice\target\classes started by e1561 in D:\practive_project\practice)
+[2m2024-12-03 14:08:01.446[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mc.w.p.c.PracticeApplication             [0;39m [2m:[0;39m No active profile set, falling back to 1 default profile: "default"
+[2m2024-12-03 14:08:01.963[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Initializing ProtocolHandler ["http-nio-8082"]
+[2m2024-12-03 14:08:01.964[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.a.c.c.StandardService                 [0;39m [2m:[0;39m Starting service [Tomcat]
+[2m2024-12-03 14:08:01.964[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.a.c.c.StandardEngine                  [0;39m [2m:[0;39m Starting Servlet engine: [Apache Tomcat/10.1.33]
+[2m2024-12-03 14:08:01.989[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.a.c.c.C.[.[.[/]                       [0;39m [2m:[0;39m Initializing Spring embedded WebApplicationContext
+[2m2024-12-03 14:08:02.223[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mo.a.c.h.Http11NioProtocol               [0;39m [2m:[0;39m Starting ProtocolHandler ["http-nio-8082"]
+[2m2024-12-03 14:08:02.236[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mc.w.p.c.PracticeApplication             [0;39m [2m:[0;39m Started PracticeApplication in 0.956 seconds (process running for 1.447)
+[2m2024-12-03 14:08:02.238[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mc.w.p.c.PracticeApplication             [0;39m [2m:[0;39m 启动成功！！
+[2m2024-12-03 14:08:02.239[0;39m [32m INFO[0;39m [35m14504[0;39m [2m---[0;39m [2m[           main][0;39m [36mc.w.p.c.PracticeApplication             [0;39m [2m:[0;39m 地址: 	http://127.0.0.1:8082
