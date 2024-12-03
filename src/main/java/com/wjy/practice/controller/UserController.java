@@ -7,8 +7,13 @@ import jakarta.annotation.Resource;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.ObjectUtils;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 @Controller
+@RequestMapping("/user")
+@RestController
+// 注意：在Controller中，返回值类型为CommonResp<T>，T表示返回的数据类型
 public class UserController {
 
     @Resource
